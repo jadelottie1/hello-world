@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-My name is Jade, I am a computing student. 
+My name is Jade and I love telling stories, where you can choose the ending. 
